@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Real-Estate
+
+Web application that allows a user to view properties to buy or rent. The user can filter their specifications to find the 
+right property that fits what they are looking for. When the user selects a property, they are able to view the description
+of it and any other specifics that are for that property.
+
+Check it out here: https://real-estate-ruby.vercel.app/
 
 ## Getting Started
 
